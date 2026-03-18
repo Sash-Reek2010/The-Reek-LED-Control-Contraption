@@ -6,6 +6,7 @@ This circuit consists of 16 resistors of various resistances, 6 transistors and 
 The entire circuit is basically just 3 multivibrators working together! The main bistable circuit acts as the switch that transfers current between the two different oscillation "modes". Then the current triggers a transistor which allows the 5V to pass through an astable circuit. There are two astable circuits with different combinations of resistors and capacitors. The outputs of both the astable circuits lead to two LEDs which provide as the output in this circuit!\
 ![circuit1](https://github.com/user-attachments/assets/03d56ba3-4aa3-45d5-bbd3-c26466e297d3)
 ## Try it out!
+I made this in the falstad circuit generator! The link is down below.\
 https://is.gd/1EUmVZ
 ## Schematic
 The Schematic was made in KiCad!\
